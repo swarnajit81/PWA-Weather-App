@@ -3,7 +3,7 @@ https://sleepy-wiles-f0e921.netlify.app/
 ## Introduction
 ![Demo](https://user-images.githubusercontent.com/81466617/116174831-d3475880-a72c-11eb-8d97-5727d72bca81.png)
 
-Progressive Web App provides a unique opportunity to deliver a web experience your users will love. Using the latest web features to bring native-like capabilities and reliability, Progressive Web Apps allow what we build to be installed by anyone, anywhere, on any device with a single codebase. This repo explores some Progressive Web App techniques to build a weather app using React.js , axios, lighthouse , and ServicreWorkers.
+Progressive Web App provides a unique opportunity to deliver a web experience your users will love. Using the latest web features to bring native-like capabilities and reliability, Progressive Web Apps allow what we build to be installed by anyone, anywhere, on any device with a single codebase. This repo explores some Progressive Web App techniques to build a weather app using React.js , axios, lighthouse , and ServiceWorkers.
 
 ## Open Weather Map Api
 
