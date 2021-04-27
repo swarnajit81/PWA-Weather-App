@@ -1,6 +1,21 @@
 ## Livsite 
 https://sleepy-wiles-f0e921.netlify.app/
+## Introduction
 ![Demo](https://user-images.githubusercontent.com/81466617/116174831-d3475880-a72c-11eb-8d97-5727d72bca81.png)
+
+Progressive Web App provides a unique opportunity to deliver a web experience your users will love. Using the latest web features to bring native-like capabilities and reliability, Progressive Web Apps allow what we build to be installed by anyone, anywhere, on any device with a single codebase. This repo explores some Progressive Web App techniques to build a weather app using React.js , axios, lighthouse , and ServicreWorkers.
+
+## Open Weather Map Api
+
+Follow the instructions on https://openweathermap.org/api to get the Api key.
+
+## Service Workers
+
+A service worker is a fundamental part of a progressive web app. It is a JavaScript file that runs on a separate thread from the webpage and can be used to do such tasks as take control of network requests, modify them, and serve custom responses from the cache. The Service Worker lifecycle consists of the following stages:
+
+Registration: If supported, it tells your browser where the service worker is located and to start installing it in the background
+Instillation: Triggers an install event where we can run some tasks when the service worker is installed
+Activation: Deletes any files that are no longer necessary and cleans up
 
 
 # Getting Started with Create React App
